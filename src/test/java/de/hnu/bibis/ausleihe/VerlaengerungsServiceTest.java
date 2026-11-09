@@ -76,7 +76,7 @@ class VerlaengerungsServiceTest {
     }
 
     // ---------------------------------------------------------------
-    // Ihre Aufgabe: Keine Vormerkung → Verlängerung klappt
+    // Ihre Aufgabe: Keine Vormerkung → Verlängerung soll klappen
     // ---------------------------------------------------------------
     @Test
     void verlaengertWennKeineVormerkung() throws Exception {
